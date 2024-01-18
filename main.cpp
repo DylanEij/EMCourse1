@@ -1,5 +1,7 @@
-#include"Circle.h"
+#include <iostream>
+#include "Circle.h"
+
 int main() {
- Circle a(2);
-    a.getRadius();
+    Circle (-2);
+    return 0;
 }
